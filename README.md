@@ -1,6 +1,6 @@
 <h2 align="center">
- Praveen <br/>
+  <br/>
   <a href="https://praveenkumar-236.github.io/profile_web/"
- target="_blank">Praveen</a>
+ target="_blank">Live</a>
 </h2>
 
